@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> [Live Demo]()
+> [Live Demo](https://ouail-01.github.io/To-Do-App_React-tuto)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +122,7 @@ Your app is ready to be deployed!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🤝 Contributing
+## 🤝 Contributing <a name="Contributing"></a>
 Contributions, issues, and feature requests are welcome!
 
 <p align="right"><p align="right">(<a href="#readme-top"><a href="#readme-top">back to top</a></a>)</p></p>
